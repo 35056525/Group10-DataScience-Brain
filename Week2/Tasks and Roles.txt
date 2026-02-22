@@ -1,0 +1,9 @@
+Week 2 : Feb 14-19
+
+Now after completing the Project Proposal in the first week , we as a group focused on the finding dataset for our project . So we meet via offline and assigned tasks at the start of the week.
+
+BALU KRISHNA GADE - Co-ordinated the tasks for the whole group through entire week.
+Molla Ganja Shaida - Finding Suitable Dataset for the Project , Dataset Description , License of the dataset and took the snapshots of the different types of brain tumors. 
+Guntupalli Vijayagayathri - Started studying the models , concepts of explanability and grad-cam related concepts.
+Mounika chinta - Studied Various Conference Papers related to the project and shortlisted them. 
+VENKATA NAGA SURESH KUMAR. KALAVAKUNTA - Revisited the gantt chart and Prepared the workflow of the project. 
