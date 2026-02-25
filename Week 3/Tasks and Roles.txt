@@ -1,0 +1,8 @@
+Progress For Week 3 : Feb 20 -27.
+After Completion of the week 2, as per brief updating the progress of the on going project , we as a group met online and offline . Below are the assigned roles for each peer :
+
+Balu Krishna Gade - Oversaw the meetings for whole week , Assigned roles for each one and kept deadlines and managed the githb. 
+Molla Ganja Shaida - Coompleted code till Exploratory Data Analysis.
+Guntupalli Vijayagayathri - Worked on architectures for models.
+Mounika Chinta - Gathered Conference Papers for CNN
+Venkata Naga Suresh Kumar -  Gathered Conference Papers for ResNet50
