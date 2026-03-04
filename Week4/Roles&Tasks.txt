@@ -1,0 +1,13 @@
+Progress for Week 4 : Feb 28 – March 5
+
+Following the completion of Week-3 activities, the team focused on implementation and integration of the proposed system. Both online and offline discussions were conducted to review the previous outcomes and proceed with model development and evaluation preparation. The updated contributions of each member are listed below:
+
+Balu Krishna Gade (Group Leader) – Monitored overall progress, verified completion of assigned tasks, coordinated integration of coding and documentation work, and supervised GitHub commits and version updates.
+
+Molla. Ganja Shaida (Coding – Data Preparation & Results) – Finalised data preprocessing pipeline, implemented dataset splitting (training, validation, testing), and generated preliminary training outputs.
+
+Guntupalli Vijayagayathri (Model Architecture & Implementation) – Implemented the Inception-V3 model with transfer learning and prepared Grad-CAM implementation workflow.
+
+Mounika Chinta (Literature Review – Inception-V3) – Summarised selected research papers and prepared structured literature notes for the report.
+
+Venkata Naga Suresh Kumar (Literature Review – Grad-CAM) – Analysed collected Grad-CAM papers and prepared explanation content for methodology and explainability section.
