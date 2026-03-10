@@ -1,0 +1,13 @@
+Progress for Week 5 : March 6 – March 12
+
+Following the completion of Week-4 activities, the team continued the development of the proposed system by focusing on model preparation, architecture design, and evaluation planning. Both online and offline meetings were conducted to review progress, clarify responsibilities, and ensure smooth coordination among team members. The updated contributions of each member are listed below:
+
+Balu Krishna Gade (Group Leader) – Oversaw the overall team activities, ensured that assigned tasks were completed on schedule, facilitated coordination among members for both coding and documentation work, and reviewed repository updates and version management.
+
+Molla. Ganja Shaida (Coding – Model Compilation & Evaluation) – Designed and prepared block diagrams representing the model compilation process and evaluation metrics used for performance assessment.
+
+Guntupalli Vijayagayathri (Model Implementation & Architecture) – Developed the initial coding implementation up to the model loading stage and created block diagrams illustrating the architecture of the implemented model.
+
+Mounika Chinta (Model Visualization) – Created an infographic representation of the proposed model architecture to visually explain the workflow of the deep learning system.
+
+Venkata Naga Suresh Kumar (Evaluation Metrics Study) – Collected and reviewed relevant research papers related to evaluation metrics such as accuracy, precision, recall, and F1-score for use in the methodology and evaluation sections of the report.
