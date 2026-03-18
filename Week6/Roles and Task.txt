@@ -1,0 +1,13 @@
+Progress for Week 6: March 13 – March 19
+
+Following the progress achieved during Week-5, the team continued working on the development of the proposed deep learning system. During this week, the focus was placed on refining the workflow structure, completing parts of the model implementation, and preparing visual representations of the system processes and evaluation methods. Regular online and offline discussions were held to review the progress, distribute tasks among team members, and ensure that both coding and documentation activities were aligned with the project objectives. The contributions of each team member during this week are outlined below:
+
+Balu Krishna Gade (Group Leader) – Managed the overall coordination of the team and monitored the progress of both technical and documentation tasks. He ensured that each member completed their assigned responsibilities on time and supported collaboration between members during the preparation of diagrams, coding activities, and repository updates.
+
+Molla Ganja Shaida (Workflow Design & Coordination) – Designed the block diagram representing the final workflow of the project, illustrating the complete pipeline from data preparation to model evaluation and result generation. In addition, she supervised the workflow development process to ensure that the overall structure of the system was clearly organized.
+
+Guntupalli Vijayagayathri (Model Implementation & Feature Extraction) – Continued the coding implementation of the project and successfully completed the development up to the model feature extraction stage. She also prepared block diagrams related to this stage and analyzed the preliminary outputs generated from the implemented components.
+
+Venkata Naga Suresh Kumar (Evaluation Metrics Representation) – Designed block diagrams explaining the evaluation metrics used in the project, including the formulas for accuracy, precision, recall, F1-score, and macro F1-score, which will be used to assess the performance of the trained model.
+
+Mounika Chinta (Research Paper Review – Hyperparameter Tuning) – Collected and reviewed recent research papers related to hyperparameter tuning techniques in deep learning models, which will support the next stage of the coding process where model parameters will be optimized to improve performance.
