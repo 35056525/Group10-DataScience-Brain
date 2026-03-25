@@ -1,0 +1,13 @@
+Progress for Week 7: March 20 – March 26
+
+Following the developments achieved in Week-6, the team continued to advance the implementation of the proposed deep learning system with a focus on model fine-tuning, performance improvement, and strengthening the evaluation framework. During this week, efforts were directed towards refining the trained model, enhancing its accuracy through optimization techniques, and supporting the implementation with appropriate architectural representations and research studies. Regular online and offline meetings were conducted to review progress, resolve challenges, and ensure effective coordination among team members. The contributions of each team member during this phase are outlined below:
+
+Balu Krishna Gade (Group Leader & Coordination Management) – Oversaw the overall progress of the project by ensuring smooth coordination among all team members. He monitored both technical and documentation activities, facilitated effective communication within the team, and ensured that all assigned tasks were completed in accordance with the planned schedule. Additionally, he contributed to maintaining consistency across different components of the project.
+
+Molla Ganja Shaida (Workflow & Fine-Tuning Representation) – Developed the block diagram representing the model fine-tuning process, clearly illustrating the stages involved in improving model performance. She ensured that the workflow of fine-tuning was systematically organized and visually represented for better understanding and documentation.
+
+Guntupalli Vijayagayathri (Model Fine-Tuning Implementation & Architecture Design) – Extended the coding implementation to include the model fine-tuning stage. She designed the architecture diagram for the fine-tuned model and analyzed the results obtained after applying optimization techniques, ensuring that the improvements in performance were properly evaluated and documented.
+
+Venkata Naga Suresh Kumar (Evaluation Metrics Research – Macro F1 Score) – Gathered and reviewed precise conference papers related to the Macro F1 score. His contribution supported a deeper understanding of evaluation metrics and strengthened the validation approach used in the project.
+
+Mounika Chinta (Research Support – Optimization Techniques) – Collected and analyzed conference papers related to the Adam optimizer and Early Stopping techniques, both of which were implemented during the fine-tuning stage. Her work provided theoretical support for the optimization strategies used to enhance model performance and prevent overfitting.
