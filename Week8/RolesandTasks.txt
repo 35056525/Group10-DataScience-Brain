@@ -1,0 +1,18 @@
+Progress for Week 8: March 27 – April 2
+
+Following the progress achieved in Week 7, the team continued to improve the deep learning system with a focus on evaluation, research support, and performance analysis. During this week, the main focus was on implementing evaluation metrics, strengthening the understanding of statistical concepts, and supporting the work with relevant conference papers. Regular online and offline meetings were conducted to review progress, solve issues, and ensure smooth coordination among all team members. The contributions of each team member are described below:
+
+Balu Krishna Gade (Group Leader and Coordination Management)
+He continued to monitor the overall progress of the project by ensuring proper coordination among team members. He supervised both technical implementation and documentation work, ensured that tasks were completed on time, and maintained consistency across all parts of the project through regular discussions and follow-ups.
+
+Molla Ganja Shaida (Research Support – Class Balance)
+She collected and reviewed conference papers related to class imbalance in machine learning and brain tumor classification. Her work helped in understanding the impact of imbalanced datasets and supported the use of techniques such as class weighting and balancing methods.
+
+Guntupalli Vijayagayathri (Research Support – Standard Deviation)
+She gathered and analyzed conference papers related to standard deviation and statistical feature extraction in medical imaging. Her contribution helped in improving the understanding of feature representation and the importance of statistical measures in model performance.
+
+Venkata Naga Suresh Kumar (Implementation and Evaluation – Macro F1 Score)
+He implemented the code for Macro F1 score evaluation to measure classification performance across all classes. He also developed a block diagram for the evaluation workflow and analyzed the results to ensure proper documentation and clear understanding of the model performance.
+
+Mounika Chinta (Research Support – Confusion Matrix)
+She collected and reviewed conference papers related to the confusion matrix and classification evaluation metrics. Her contribution supported better understanding of class-wise performance and error analysis.
