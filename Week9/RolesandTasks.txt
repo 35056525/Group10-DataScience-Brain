@@ -1,0 +1,20 @@
+PROGRESS FOR WEEK 9: APRIL 2 – APRIL 5
+
+Following the progress achieved in Week 8, the team focused on completing the model evaluation phase and finalizing the overall performance analysis. During this week, the main emphasis was on generating final results, improving visualization of model performance, and strengthening the evaluation process with the support of relevant research papers. Regular online and offline meetings were conducted to review progress, address challenges, and ensure effective coordination among all team members. The contributions of each team member are described below:
+
+BALU KRISHNA GADE (GROUP LEADER AND COORDINATION MANAGEMENT)
+Continued supervision of the overall project progress was maintained by ensuring effective coordination among all team members. Both technical implementation and documentation tasks were closely monitored, deadlines were ensured, and consistency across all components of the project was maintained through regular discussions and follow-ups.
+
+MOLLA GANJA SHAIDA (TRAINING AND VALIDATION PERFORMANCE CURVES)
+Generation and analysis of training and validation curves were carried out to understand the learning behaviour of the model across epochs. Patterns such as overfitting and underfitting were identified, contributing to improved model performance and more reliable results.
+
+GUNTUPALLI VIJAYAGAYATHRI (FINAL EVALUATION – CONFUSION MATRIX)
+Preparation and finalization of the confusion matrix were completed to evaluate classification performance. Class-wise predictions and errors were analysed to identify strengths and weaknesses of the model, supporting clear interpretation of results.
+
+VENKATA NAGA SURESH KUMAR (IMPLEMENTATION AND EVALUATION – MACRO F1 SCORE AND FINAL RESULTS)
+Implementation was completed up to the model evaluation stage. Final Macro F1-score results were generated and detailed performance analysis was conducted, ensuring accurate evaluation and proper reporting of the classification model.
+
+MOUNIKA CHINTA (RESEARCH SUPPORT – ROC CURVE AND AUC ANALYSIS)
+Collection and review of conference papers related to ROC curves and AUC were carried out. This contributed to strengthening the theoretical understanding of evaluation metrics and supported effective interpretation of model performance using ROC-based analysis.
+
+Overall, Week 9 focused on completing the evaluation phase, producing final results, and ensuring that all performance metrics were clearly analysed and well documented through effective teamwork.
