@@ -1,0 +1,22 @@
+PROGRESS FOR WEEK 10: APRIL 6 – APRIL 13
+
+Following the completion of the evaluation phase in Week 9, the team focused on final implementation, result consolidation, and improving model interpretability. The work during this week mainly involved generating final outputs, integrating explainability techniques, and preparing all results for documentation. Regular online and offline meetings were conducted to monitor progress, resolve issues, and ensure proper coordination among team members.
+
+The contributions of each team member are described below:
+
+BALU KRISHNA GADE (GROUP LEADER AND RESULT FINALIZATION)
+Continued supervision of the overall project was maintained by coordinating team activities and ensuring all tasks were completed on time. Final classification results for tumor and non-tumor detection were organized and verified. ROC curve outputs were also reviewed and finalized to ensure accurate representation of model performance.
+
+MOLLA GANJA SHAIDA (CONFUSION MATRIX HEATMAP)
+A heatmap representation of the confusion matrix was generated to improve the visualization of classification results. This helped in clearly identifying correct predictions and misclassifications, making the evaluation more interpretable.
+
+GUNTUPALLI VIJAYAGAYATHRI (DEMO CODE AND GRAD-CAM VISUALIZATION)
+Demo code was prepared to demonstrate the working of the model. Grad-CAM heatmap overlays were generated to highlight important regions in the images, improving the explainability of the model predictions.
+
+VENKATA NAGA SURESH KUMAR (FULL IMPLEMENTATION AND GRAD-CAM RESULTS)
+The complete implementation of the model was finalized. Grad-CAM results were generated and analysed to validate the model’s decision-making process. A block diagram representing the system workflow was also prepared for documentation purposes.
+
+MOUNIKA CHINTA (PRECISION, CONFIDENCE AND MACRO EVALUATION METRICS)
+Precision, confidence scores, and macro evaluation metrics were calculated and analysed. These metrics provided a detailed understanding of the model’s performance across different classes and supported accurate reporting of results.
+
+Overall, Week 10 focused on finalizing implementation, generating explainable results, and ensuring that all evaluation metrics and visualizations were clearly presented and documented through effective teamwork.
