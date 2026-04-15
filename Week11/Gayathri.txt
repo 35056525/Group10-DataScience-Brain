@@ -1,0 +1,1 @@
+I have prepared the demo setup to ensure that the model runs smoothly during the live demonstration. I have tested the system with different inputs and verified the outputs. I have also worked on integrating explainability results such as Grad-CAM into the presentation to clearly show how the model makes decisions.
