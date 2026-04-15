@@ -1,0 +1,10 @@
+PROGRESS FOR WEEK 11: APRIL 14 – APRIL 20
+
+During Week 11, the team concentrated on preparing and finalising the Group Presentation – Pitch. The work focused on structuring the presentation based on the required format, including the problem, solution, live demonstration, evaluation, and future scope. The team conducted multiple review sessions to ensure clarity, proper timing, and smooth delivery. Special attention was given to preparing the live demo and ensuring all outputs were accurate and presentation-ready.
+
+The contributions of each team member are outlined below:
+Balu Krishna Gade – I have coordinated the overall presentation preparation, structured the problem statement, and ensured all sections are aligned and completed on time.
+Molla Ganja Shaida – She has prepared and refined all visualizations and presentation slides to clearly display results and improve understanding.
+Guntupalli Vijayagayathri – She has set up and tested the demo system and integrated explainability outputs for better model interpretation.
+Venkata Naga Suresh Kumar – He has finalized the complete model implementation and ensured the system runs smoothly for the live demonstration.
+Mounika Chinta – She has prepared the evaluation, ethics, and future scope sections, clearly presenting performance metrics and project impact.
