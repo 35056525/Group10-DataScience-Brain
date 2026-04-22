@@ -1,0 +1,13 @@
+During Week 12, the team focused on final project submission preparation and ensuring all deliverables met the assessment requirements. The work included organizing the complete project code, finalizing documentation, preparing the README file, validating the demo execution, and verifying all results. The team ensured that the project is fully runnable, well-structured, and clearly documented as per the submission guidelines. Final checks were conducted to confirm accuracy, reproducibility, and completeness of all components.
+
+The contributions of each team member are outlined below:
+
+Balu Krishna Gade – I have updated and finalized the README file and requirements.txt according to the assessment brief instructions, ensuring clear setup and execution guidelines.
+
+Molla Ganja Shaida – She has completed and refined the Group Presentation, ensuring it is well-structured, visually clear, and aligned with project outcomes.
+
+Guntupalli Vijayagayathri – She has organized and finalized the complete project code, ensuring it is clean, well-commented, and ready for submission.
+
+Venkata Naga Suresh Kumar – He has finalized the project results, verified performance metrics, and ensured all evaluation outputs are accurate and properly presented.
+
+Mounika Chinta – She has prepared and finalized the demo code, ensuring smooth execution and correct prediction outputs for the live demonstration.
